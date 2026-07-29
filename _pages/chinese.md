@@ -2,6 +2,9 @@
 permalink: /chinese/
 title: "关于我"
 author_profile: true
+redirect_from: 
+  - /cn/
+  - /chinese.html
 ---
 
 我于2026年秋季入学[东南大学](https://www.seu.edu.cn/)集成电路学院，攻读硕士研究生，师从[彭亚锐](https://ic.seu.edu.cn/pyr/main.htm)教授。
