@@ -30,12 +30,12 @@ author:
   location         : "Wuxi China"
   employer         : "Southeast University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuxiang-huang@hotmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : #""
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #""
