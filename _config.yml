@@ -13,7 +13,7 @@ title                    : "Yuxiang Huang(黄羽翔)"
 title_separator          : "-"
 name                     : &name "Yuxiang Huang(黄羽翔)"
 description              : &description "Yuxiang Huang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yx-huang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yx-huang-cn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yx-huang-cn/yx-huang-cn.github.io"
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "yx-huang-cn"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
