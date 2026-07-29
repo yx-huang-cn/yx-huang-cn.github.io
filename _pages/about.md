@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Master of Science candidate in Integrated Circuit Engineering at the School of Integrated Circuits, Southeast University ([SCU](https://www.seu.edu.cn/)), having commenced my graduate studies in the full semester of 2026. I am advised by [Prof. Yarui Peng](https://ic.seu.edu.cn/pyr/main.htm).
+I am currently a first-year Master of Science candidate in Integrated Circuit Engineering at the School of Integrated Circuits, Southeast University ([SEU](https://www.seu.edu.cn/)), having commenced my graduate studies in the full semester of 2026. I am advised by [Prof. Yarui Peng](https://ic.seu.edu.cn/pyr/main.htm).
 
 My primary research interests are advanced package and chiplet design.
 
