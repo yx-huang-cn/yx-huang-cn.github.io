@@ -23,7 +23,7 @@ repository               : "yx-huang-cn/yx-huang-cn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "照片蓝底.jpg"
   name             : "Yuxiang Huang"
   pronouns         : # example: "she/her"  
   bio              : "M.S. Student, SEU"
