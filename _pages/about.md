@@ -11,4 +11,4 @@ I am currently a first-year Master of Science candidate in Integrated Circuit En
 
 My primary research interests are advanced packaging and chiplet design.
 
-I earned my Bachelor of Engineering degree in Microelectronics Science and Engineering from Lanzhou University. My graduation project, titled "Design of an Intelligent Acquisition System Based on FPGA," was recognized as an outstanding graduation project.
+I earned my Bachelor of Engineering degree in Microelectronics Science and Engineering from Lanzhou University. My graduation project, titled "Design of Intelligent Acquisition System Based on FPGA," was recognized as an outstanding graduation project.
